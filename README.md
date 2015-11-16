@@ -8,7 +8,7 @@ An Ethereum Contract emulating the experiment of [The Button](https://www.reddit
 
 References:
 
-1- [The insidious design behind the button](https://medium.com/@clinton/the-insidious-design-behind-the-button-46fcae896c39)
+1- [The insidious design behind the button](https://medium.com/@clinton/the-insidious-design-behind-the-button-46fcae896c39) on Medium
 
 2- [The original code of The Button for Reddit](https://gist.github.com/tom-lord/6aee965d9c6a9ca63093)
 
