@@ -1,4 +1,7 @@
 # Pseudo-code
 
-Definir var Bounty
-Definir var nblock
+Definir  Bounty
+
+Definir  nblock
+
+Definir  fee
