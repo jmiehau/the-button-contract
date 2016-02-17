@@ -8,9 +8,10 @@ An Ethereum Contract emulating the experiment of [The Button](https://www.reddit
 
 References:
 
-1- [The insidious design behind the button](https://medium.com/@clinton/the-insidious-design-behind-the-button-46fcae896c39) on Medium
+1- [The insidious design behind the button](https://medium.com/@clinton/the-insidious-design-behind-the-button-46fcae896c39) on Medium.
 
 2- [The original code of The Button for Reddit](https://gist.github.com/tom-lord/6aee965d9c6a9ca63093)
 
 3- [After 1008316 clicks, the experiment has ended at 05 Jun 21:50:55 UTC](https://www.reddit.com/r/thebutton/comments/38q43k/after_1008316_clicks_the_experiment_has_ended_at/)
 
+Prueba
